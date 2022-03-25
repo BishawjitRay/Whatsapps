@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74900681276",
+    "project_id": "whatapps-35499",
+    "storage_bucket": "whatapps-35499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74900681276:android:cc46b53a00d8b19b0a4939",
+        "android_client_info": {
+          "package_name": "com.viewcashofficial.whatapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74900681276-du26mf40kgrnb4db9uvlddi2eh12vonm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4KtGt39S43hksR7CR3r2HQq9Mg9eI_gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74900681276-du26mf40kgrnb4db9uvlddi2eh12vonm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
